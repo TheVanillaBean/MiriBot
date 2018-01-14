@@ -1,0 +1,14 @@
+{
+  "name": "miri",
+  "version": "1.0.0",
+  "description": "Chat Bot for Discord, which allows users to sync reminders in a server.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^11.2.1"
+  }
+}
